@@ -1,6 +1,4 @@
 # CS-340-Client-Server-Development
-# CS-340: Client/Server Development
-
 ## Grazioso Salvare Rescue Animal Dashboard
 
 For this project, I developed an interactive dashboard for Grazioso Salvare that uses Python and MongoDB to organize and display animal shelter data. The dashboard allows users to filter animal records based on specific rescue requirements and view the results through tables, charts, and an interactive map. The purpose of this project was to make it easier for Grazioso Salvare to identify animals that may be suitable for search-and-rescue training.
